@@ -16,5 +16,5 @@
 肿瘤
 - mutation
 突变
-- the central dogma
-中心法则
+- The central dogma
+分子生物学的中心法则 [wiki](https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%BF%83%E6%B3%95%E5%89%87)
